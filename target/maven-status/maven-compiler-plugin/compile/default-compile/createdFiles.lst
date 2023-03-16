@@ -1,9 +1,11 @@
 com\mycompany\peluqueriacanina\logica\Dueño.class
+com\mycompany\peluqueriacanina\interfaz\VerDatos$4.class
 com\mycompany\peluqueriacanina\interfaz\VerDatos$2.class
 com\mycompany\peluqueriacanina\interfaz\CargaDatos$2.class
 com\mycompany\peluqueriacanina\interfaz\PanelPrincipal.class
 com\mycompany\peluqueriacanina\interfaz\PanelPrincipal$3.class
 com\mycompany\peluqueriacanina\interfaz\VerDatos.class
+com\mycompany\peluqueriacanina\interfaz\ModificarDatos$1.class
 com\mycompany\peluqueriacanina\interfaz\PanelPrincipal$1.class
 com\mycompany\peluqueriacanina\persistencia\exceptions\PreexistingEntityException.class
 com\mycompany\peluqueriacanina\logica\Dueño_.class
@@ -11,6 +13,7 @@ com\mycompany\peluqueriacanina\interfaz\VerDatos$1.class
 com\mycompany\peluqueriacanina\interfaz\VerDatos$3.class
 com\mycompany\peluqueriacanina\interfaz\CargaDatos$3.class
 com\mycompany\peluqueriacanina\persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\peluqueriacanina\interfaz\ModificarDatos$2.class
 com\mycompany\peluqueriacanina\persistencia\exceptions\IllegalOrphanException.class
 com\mycompany\peluqueriacanina\persistencia\MascotaJpaController.class
 com\mycompany\peluqueriacanina\logica\Controladora.class
@@ -20,5 +23,7 @@ com\mycompany\peluqueriacanina\persistencia\ControladoraPersistencia.class
 com\mycompany\peluqueriacanina\logica\Mascota.class
 com\mycompany\peluqueriacanina\logica\Mascota_.class
 com\mycompany\peluqueriacanina\interfaz\CargaDatos.class
+com\mycompany\peluqueriacanina\interfaz\ModificarDatos.class
 com\mycompany\peluqueriacanina\PeluqueriaCanina.class
+com\mycompany\peluqueriacanina\interfaz\ModificarDatos$3.class
 com\mycompany\peluqueriacanina\persistencia\DueñoJpaController.class

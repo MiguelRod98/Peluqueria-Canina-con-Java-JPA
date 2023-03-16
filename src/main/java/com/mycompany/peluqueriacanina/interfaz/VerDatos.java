@@ -59,7 +59,7 @@ public class VerDatos extends javax.swing.JFrame {
 
         jLabel2.setText("Datos de mascotas:");
 
-        btnEliminar.setIcon(new javax.swing.ImageIcon("C:\\Users\\Asus\\Desktop\\delete.png")); // NOI18N
+        btnEliminar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/META-INF/delete.png"))); // NOI18N
         btnEliminar.setText(" Eliminar");
         btnEliminar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -67,7 +67,7 @@ public class VerDatos extends javax.swing.JFrame {
             }
         });
 
-        btnEditar.setIcon(new javax.swing.ImageIcon("C:\\Users\\Asus\\Desktop\\edit.png")); // NOI18N
+        btnEditar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/META-INF/edit.png"))); // NOI18N
         btnEditar.setText(" Editar");
         btnEditar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

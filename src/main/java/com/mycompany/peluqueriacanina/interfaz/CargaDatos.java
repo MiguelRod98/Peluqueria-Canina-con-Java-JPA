@@ -162,11 +162,11 @@ public class CargaDatos extends javax.swing.JFrame {
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\Asus\\Desktop\\PerroIcono.jpg")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/META-INF/PerroIcono.jpg"))); // NOI18N
         jLabel2.setMaximumSize(new java.awt.Dimension(400, 300));
 
         btnLimpiar.setFont(new java.awt.Font("Arial", 0, 18)); // NOI18N
-        btnLimpiar.setIcon(new javax.swing.ImageIcon("C:\\Users\\Asus\\Desktop\\limpiar.png")); // NOI18N
+        btnLimpiar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/META-INF/limpiar.png"))); // NOI18N
         btnLimpiar.setText(" Limpiar");
         btnLimpiar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -175,7 +175,7 @@ public class CargaDatos extends javax.swing.JFrame {
         });
 
         btnGuardar.setFont(new java.awt.Font("Arial", 0, 18)); // NOI18N
-        btnGuardar.setIcon(new javax.swing.ImageIcon("C:\\Users\\Asus\\Desktop\\guardar.png")); // NOI18N
+        btnGuardar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/META-INF/guardar.png"))); // NOI18N
         btnGuardar.setText(" Guardar");
         btnGuardar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
